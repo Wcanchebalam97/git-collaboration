@@ -1,0 +1,6 @@
+granny smith,
+honeycrisp,
+jazz,
+fuji,
+cosmic crisp,
+gala,
